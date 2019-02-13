@@ -1,6 +1,5 @@
 
 public class Exam3 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int NUM[] = { 70, 60, 50, 80, 90 };
