@@ -16,7 +16,8 @@ public class Chap03_Section02 {
 					M = MATH[i];
 			}
 			i++;
-			if(i>=10)break;
+			if (i >= 10)
+				break;
 		}
 		System.out.println(M);
 
