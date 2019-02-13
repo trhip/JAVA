@@ -9,7 +9,7 @@ public class Exam3 {
 				MIN = NUM[N];
 			}
 		}
-		System.out.println("¹è¿­ NUMÀÇ ¿ø¼Òµé Áß¿¡¼­ ÃÖ¼Ú°ªÀº");
-		System.out.println(MIN + " ÀÔ´Ï´Ù");
+		System.out.println("ë°°ì—´ NUMì˜ ì›ì†Œë“¤ ì¤‘ì—ì„œ ìµœì†Ÿê°’ì€");
+		System.out.println(MIN + " ì…ë‹ˆë‹¤");
 	}
 }

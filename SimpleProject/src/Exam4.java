@@ -13,7 +13,7 @@ public class Exam4 {
 			Fact = n * Fact;
 			n = n - 1;
 		}
-		System.out.println("ÀÇ ´©½ÂÀº " + Fact + "ÀÔ´Ï´Ù");
+		System.out.println("ì˜ ëˆ„ìŠ¹ì€ " + Fact + "ì´ë‹¤");
 
 	}
 }

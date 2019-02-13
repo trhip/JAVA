@@ -11,8 +11,8 @@ public class Exam2 {
 		for (N = N1; N <= N2; N++) {
 			SUM = SUM + N;
 		}
-		System.out.println(N1 + "ºÎÅÍ " + N2 + "±îÁöÀÇ");
-		System.out.println("Á¤¼öÀÇ ÇÕÀº " + SUM + "ÀÌ´Ù");
+		System.out.println(N1 + "ë¶€í„° " + N2 + "ê¹Œì§€ì˜");
+		System.out.println("ì •ìˆ˜ì˜ í•©ì€" + SUM + "ì´ë‹¤");
 	}
 
 }
